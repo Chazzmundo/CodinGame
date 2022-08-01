@@ -10,4 +10,4 @@ Each of them are designed to be as simple as possible to integrate into your pro
 
 A Quality of Life (QOL) improvement designed to drastically reduce the amount of tedious and repetitive manual input you need to do for inputting the test data each time you run your script.
 
-Link: 
+Link: https://github.com/Chazzmundo/CodinGame/tree/main/Helpers/InputHelper

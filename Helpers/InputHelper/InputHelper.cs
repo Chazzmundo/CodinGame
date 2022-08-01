@@ -50,7 +50,7 @@ namespace CodinGameHelpers
     {
         // TODO: Change this to your own "InputData.txt" file path.
         // Either hardcode the absolute path or use a relative one (like below)
-        private static string INPUT_DATA_FOLDER_PATH => System.Environment.CurrentDirectory + @"/../../CodinGame/Helpers";
+        private static string INPUT_DATA_FOLDER_PATH => System.Environment.CurrentDirectory + @"/../../CodinGame/Helpers/InputHelper";
 
         public static System.IO.TextWriter Error { get; } = System.Console.Error;
 
